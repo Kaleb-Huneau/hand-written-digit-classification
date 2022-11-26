@@ -1,1 +1,0 @@
-Here is a small project where I solved the MNIST problem while learning about machine learning.
